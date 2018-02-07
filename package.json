@@ -1,5 +1,5 @@
 {
-  "name": "habr-app",
+  "name": "Isomorphic-react-application",
   "version": "1.0.0",
   "description": "Simple universal / isomorphic React application for habrahabr.ru",
   "main": "index.js",
